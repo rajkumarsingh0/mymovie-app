@@ -10,7 +10,7 @@ const Footer = () => {
           <div className="col-fot1">
             <Heading />
             <div className="footer__details">
-              <p>Cinemy Movies and Tv Series</p>
+              <p>Mymovie-App Movies and Tv Series</p>
               <p>Rajkumar singh,</p>
               <p>Vivek Ratan,</p>
               <p>Rohit Kumar</p>
@@ -24,7 +24,7 @@ const Footer = () => {
             <div className="menu-footer">
               <ul className="menu">
                 <li className="menu-item ">
-                  <Link to="#">About CinemyPlex</Link>
+                  <Link to="#">About Mymovie-App</Link>
                 </li>
                 <li id="menu-item-72" className="menu-item">
                   <Link to="#">Contact Us</Link>
@@ -80,3 +80,4 @@ const Footer = () => {
 };
 
 export default Footer;
+
