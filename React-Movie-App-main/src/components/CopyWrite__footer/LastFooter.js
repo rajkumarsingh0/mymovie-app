@@ -10,7 +10,7 @@ const LastFooter = () => {
       <div className="write__footer">
         <div className="container2 ">
           <span>
-            © 2022 CinemyPlex. All Rights Reserved. Designed by{" "}
+            © 2022 Mymovie-App. All Rights Reserved. Designed by{" "}
             <a href="https://www.linkedin.com/feed/">Rajkumar Singh</a>,
             <a href="https://www.linkedin.com/feed/">Vivek Ratan</a>,
             <a href="https://www.linkedin.com/feed/">Rohit Kumar</a>.
